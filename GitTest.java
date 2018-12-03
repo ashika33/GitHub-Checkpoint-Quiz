@@ -1,5 +1,5 @@
-//ashika
-//kanchanakuntla
+
+
 public class GitTest{
 
 	private String variable;
@@ -16,6 +16,10 @@ public class GitTest{
 
 	}
 
+	public void setVariable(String newVariable){
+		variable = newVariable;
+
+	}
 
 
 
