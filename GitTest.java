@@ -1,4 +1,4 @@
-//Kanchanakuntla
+//kanchanakuntla
 public class GitTest{
 
 	private String variable;
