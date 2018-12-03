@@ -4,13 +4,13 @@ public class GitTest{
 
 
 	public GitTest(){
-		this.variable = variable;
+		this.variable = "This is my Github test";
 
 
 	}
 
 	public String toString(){
-		return "This is my Github test";
+		return variable;
 
 	}
 
