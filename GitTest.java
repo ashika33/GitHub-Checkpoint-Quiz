@@ -1,5 +1,6 @@
+//Ashika
 public class GitTest{
-	//Ashika Kanchanakuntla
+	
 	private String variable;
 
 
